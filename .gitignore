@@ -1,0 +1,20 @@
+# Byte-compiled / cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Entornos y configuración de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos de distribución / compilación
+build/
+dist/
+*.egg-info/
